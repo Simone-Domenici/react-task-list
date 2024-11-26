@@ -73,4 +73,4 @@ const tasks = [
 
 console.log(tasks)
 
-module.exports = tasks
+export default tasks
