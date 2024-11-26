@@ -1,0 +1,38 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol{
+  list-style: none;
+}
+
+.main-title {
+  padding: 20px;
+  background-color: #7fffd3;
+}
+
+.task-list {
+  margin: 20px;
+  h2{
+    margin: 20px 0;
+  }
+}
+
+.task-title {
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  display: inline-block;
+}
+
+.status{
+  padding: 5px;
+  color: white;
+  margin-left: 5px;
+}
+
+.task-separator{
+  margin-top: 30px;
+}
